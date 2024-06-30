@@ -1,0 +1,19 @@
+{
+  "name": "newib6",
+  "version": "1.0.0",
+  "description": "test metaplex",
+  "main": "itemone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vbr",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
+    "@metaplex-foundation/umi": "^0.9.2",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.2",
+    "@solana/web3.js": "^1.94.0",
+    "bigint-buffer": "^1.1.5"
+  }
+}
